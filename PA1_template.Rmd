@@ -2,7 +2,7 @@ Peer Assignment 1
 ========================================================
 ## Loading and preprocessing the data ##
 
-### Load the data ###
+### Load the data ###c
 
 ```{r}
 setwd('/Users/rswamina/Downloads')
